@@ -16,7 +16,7 @@ echo "You were born around: $birth_year."
 
 if [ $age -lt 18 ]; then 
 	echo "You're a minor"
-elif [ $age -gt 65 ]; then
+elif [ $age -ge 65 ]; then
 	echo "You're eligible for senior benefits"
 else 
 	echo "You're an adult"
