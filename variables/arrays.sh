@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Declare an array
+## Am back
 fruits=("Apple" "Banana" "Cherry" "Date")
 
 #Access specific element
